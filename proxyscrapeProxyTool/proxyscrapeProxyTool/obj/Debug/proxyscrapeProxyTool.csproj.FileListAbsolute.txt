@@ -1,0 +1,10 @@
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\bin\Debug\proxyscrapeProxyTool.exe.config
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\bin\Debug\proxyscrapeProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\bin\Debug\proxyscrapeProxyTool.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\bin\Debug\RestSharp.dll
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\bin\Debug\RestSharp.xml
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\obj\Debug\proxyscrapeProxyTool.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\obj\Debug\proxyscrapeProxyTool.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\obj\Debug\proxyscrapeProxyTool.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\obj\Debug\proxyscrapeProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\proxyscrapeProxyTool\proxyscrapeProxyTool\proxyscrapeProxyTool\obj\Debug\proxyscrapeProxyTool.pdb
